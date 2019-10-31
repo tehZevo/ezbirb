@@ -1,0 +1,5 @@
+{
+  "uiPort": 3000,
+  "proxyPort": 8080,
+  "routes": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ezbirb",
+  "version": "0.0.0",
+  "description": "A webUI for [Redbird](https://www.npmjs.com/package/redbird)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zevo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redbird": "^0.9.1"
+  },
+  "devDependencies": {}
+}
